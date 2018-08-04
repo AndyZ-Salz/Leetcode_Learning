@@ -22,7 +22,6 @@ def searchMatrix(matrix, target):
                 return True
     return False
 
-
 if __name__ == '__main__':
     matrix = [
         [1, 4, 7, 11, 15],
